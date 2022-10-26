@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ma_title">Select a formula</string>
+    <string name="ma_btn_calcular">Calculate</string>
+    <string name="ma2_titulo">The result of the formula is</string>
+    <string name="datos_hint">Type a number</string>
+    <string name="array_0">Select...</string>
+    <string name="array_1">Cylinder volume</string>
+    <string name="array_2">Pyramid volume</string>
+    <string name="array_3">Squared binomial</string>
+    <string name="array_4">Cubed binomial</string>
+    <string name="altura">Height</string>
+    <string name="radio">Radius</string>
+    <string name="lados"># Of Sides</string>
+    <string name="lado">Side</string>
+    <string name="error_formula">Choose formula</string>
+    <string name="error_negativo">Type a positive length</string>
+    <string name="error_lados">Type 3 or 4 sides</string>
+</resources>

@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Practica1</string>
-    <string name="autor">Erick Rodrigo M. Pineda</string>
-    <string name="version">1.1.0</string>
+    <string name="app_name" translatable="false">Practica1</string>
+    <string name="autor" translatable="false">Erick Rodrigo M. Pineda</string>
+    <string name="version" translatable="false">1.1.0</string>
 
     <!--    Strings main activity-->
     <string name="ma_title">Selecciona Una Formula</string>
@@ -11,9 +11,9 @@
     <string name="ma2_titulo">El resultado de la formula es:</string>
 
     <!--    Strings datos-->
-    <string name="datos_a">Dato 1</string>
-    <string name="datos_b">Dato 2</string>
-    <string name="datos_c">Dato 3</string>
+    <string name="datos_a" translatable="false">Dato 1</string>
+    <string name="datos_b" translatable="false">Dato 2</string>
+    <string name="datos_c" translatable="false">Dato 3</string>
     <string name="datos_hint">Ingresa un número</string>
 
     <!--    valores Array-->
@@ -28,16 +28,12 @@
     <string name="radio">Radio</string>
     <string name="lados"># Lados</string>
     <string name="lado">Lado</string>
-    <string name="a">A</string>
-    <string name="b">B</string>
-    <string name="c">C</string>
+    <string name="a" translatable="false">A</string>
+    <string name="b" translatable="false">B</string>
+    <string name="c" translatable="false">C</string>
 
 <!--    strings alerts-->
     <string name="error_formula">Elije una formula</string>
     <string name="error_negativo">No hay longitud Negativa</string>
     <string name="error_lados">Ingresa 3 o 4 lados</string>
-
-
-
-
 </resources>
