@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formulas_array">
+        <item>@string/array_0</item>
+        <item>@string/array_1</item>
+        <item>@string/array_2</item>
+        <item>@string/array_3</item>
+        <item>@string/array_4</item>
+    </string-array>
+</resources>
